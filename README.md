@@ -10,14 +10,14 @@ The application will have a three-level user system: Cashier, Manager and Admini
 different views and usage of the software. Each of these users has a username and a password to enter in
 the software.
 
-##**Cashier** 
+## **Cashier** 
 Has the right to check out the tech-items that a customer may need from the CD-Store. This means that
 the cashier should create a bill and enter the data of the bought item, such as the title of the CD and its quantity. If
 the CD does not exist or is out of stock, it should automatically give him an alert about it. The software should
 provide him the total amount of the bill and it should be in a printable format ([BillNo].txt). The updates in the
 software file should be done automatically by adding the data into the respective files.
 
-##**Manager** 
+## **Manager** 
 The manager has the right to supply the CD-Store with the needed items. So he may enter in the stock
 the new genre and/or add CDs of the same genre to the stock of the CD-Store. He should be informed when
 entered in the system if there are few (usually less than 5) items of a category in the CD-Store stock, so he may add
@@ -26,7 +26,7 @@ CDs sold and the total amount of money made for a certain date or between a cert
 statistics about the CDs sold and bought should be provided to them whenever requested from them daily, monthly
 and/or total. The manager keeps a list of suppliers and the CDs they offer.
 
-##**Administrator** 
+## **Administrator** 
 The administrator has the right to manage almost everything that the Cashier and Manager do.
 Beside them he has the right to manage the employees (Cashier and Manager), by registering, modifying and
 deleting them including their access to the software. He may keep data about them such as: name, birthday, phone,
