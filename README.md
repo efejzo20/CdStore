@@ -39,7 +39,17 @@ total incomes (total of items sold) and total cost (total of items bought and st
 
 ![ScreenRecord](https://user-images.githubusercontent.com/77446151/156042709-661c18cf-dbdf-4fbe-9b06-252b14738af3.gif)
 
-###Login View
+### Login View
 ![LoginView](https://user-images.githubusercontent.com/77446151/156040668-0eb9baab-3f4b-47f8-83d4-2d97489e2b7a.png)
+
+### Home View
+![HomeView1](https://user-images.githubusercontent.com/77446151/156043004-769f7654-1f59-4d67-8daa-8f3f6312133a.png)
+![HomeView2](https://user-images.githubusercontent.com/77446151/156043061-bd5b5b33-e89d-4f88-b719-fc7de1d1f0b7.png)
+
+### Employee Data
+![EmployeeData](https://user-images.githubusercontent.com/77446151/156043097-c1a0083a-c526-43da-9533-5c4aad2721f6.png)
+
+### Add Cd
+![AddCd](https://user-images.githubusercontent.com/77446151/156043178-eb63a535-2ef8-4277-a34b-350d42521170.png)
 
 
