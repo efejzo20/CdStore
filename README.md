@@ -10,7 +10,7 @@ The application will have a three-level user system: Cashier, Manager and Admini
 different views and usage of the software. Each of these users has a username and a password to enter in
 the software.
 
-## **Cashier** 
+### **Cashier** 
 Has the right to check out the tech-items that a customer may need from the CD-Store. This means that
 the cashier should create a bill and enter the data of the bought item, such as the title of the CD and its quantity. If
 the CD does not exist or is out of stock, it should automatically give him an alert about it. The software should
