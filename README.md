@@ -35,6 +35,11 @@ deleting them including their access to the software. He may keep data about the
 email, salary, access level, and other information about them. The software should provide him also data about
 total incomes (total of items sold) and total cost (total of items bought and staff salaries) during a period of time.
 
+## Content
+- Java
+- JavaFX
+- CSS
+
 ## **Preview**
 
 ![ScreenRecord](https://user-images.githubusercontent.com/77446151/156042709-661c18cf-dbdf-4fbe-9b06-252b14738af3.gif)
