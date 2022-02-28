@@ -36,6 +36,7 @@ email, salary, access level, and other information about them. The software shou
 total incomes (total of items sold) and total cost (total of items bought and staff salaries) during a period of time.
 
 ## **Preview**
+https://user-images.githubusercontent.com/77446151/156041861-84f8cff3-e4e2-4c81-a788-8c8e74bc0294.mp4
 ![LoginView](https://user-images.githubusercontent.com/77446151/156040668-0eb9baab-3f4b-47f8-83d4-2d97489e2b7a.png)
 
 
