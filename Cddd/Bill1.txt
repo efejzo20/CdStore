@@ -1,0 +1,8 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Way 2 Sexy    Singer: Drake    Price: $7.0
+Name: Bad Habits    Singer: Ed Sheeran    Price: $5.0
+
+Date: 07/02/2022 11:37:25
+Total price: $12.0

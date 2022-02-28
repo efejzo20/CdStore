@@ -1,0 +1,8 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Knife Talk    Singer: Drake    Price: 4.0
+Name: Way 2 Sexy    Singer: Drake    Price: 7.0
+
+Date: 08/02/2022 09:11:14
+Total price: $11.0

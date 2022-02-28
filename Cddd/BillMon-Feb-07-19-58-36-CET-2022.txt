@@ -1,0 +1,8 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Eazy    Singer: Kane West    Price: $8.0
+Name: The hills    Singer: The Weeknd    Price: $5.0
+
+Date: 07/02/2022 19:58:36
+Total price: $13.0

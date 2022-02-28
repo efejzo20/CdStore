@@ -1,0 +1,8 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Knife Talk    Singer: Drake    Price: $4.0
+Name: Blinding Lights    Singer: The Weeknd    Price: $5.0
+
+Date: 07/02/2022 11:53:23
+Total price: $9.0

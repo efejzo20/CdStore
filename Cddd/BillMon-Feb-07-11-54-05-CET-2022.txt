@@ -1,0 +1,8 @@
+            ------BILL------
+
+Purchased Cds:
+Name: One Dance    Singer: Drake    Price: $5.0
+Name: Knife Talk    Singer: Drake    Price: $4.0
+
+Date: 07/02/2022 11:54:05
+Total price: $9.0

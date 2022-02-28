@@ -1,0 +1,7 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Way 2 Sexy    Singer: Drake    Price: 7.0
+
+Date: 08/02/2022 20:35:15
+Total price: $7.0

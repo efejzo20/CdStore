@@ -1,0 +1,8 @@
+            ------BILL------
+
+Purchased Cds:
+Name: The hills    Singer: The Weeknd
+Name: Bad Habits    Singer: Ed Sheeran
+
+Date: 04/02/2022 22:16:26
+Total price: $10.0

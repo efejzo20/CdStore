@@ -1,0 +1,7 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Eazy    Singer: Kane West    Price: 9.0
+
+Date: 09/02/2022 19:03:17
+Total price: $9.0

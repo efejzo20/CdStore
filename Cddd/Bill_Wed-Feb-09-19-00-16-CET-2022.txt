@@ -1,0 +1,7 @@
+            ------BILL------
+
+Purchased Cds:
+Name: Moon    Singer: Kane West    Price: 6.0
+
+Date: 09/02/2022 19:00:16
+Total price: $6.0
