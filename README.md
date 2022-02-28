@@ -57,4 +57,7 @@ total incomes (total of items sold) and total cost (total of items bought and st
 ### Add Cd
 ![AddCd](https://user-images.githubusercontent.com/77446151/156043178-eb63a535-2ef8-4277-a34b-350d42521170.png)
 
+### Bill
+![Bill](https://user-images.githubusercontent.com/77446151/156046049-7e066a04-37b7-4632-ae84-fb5241af1988.png)
+
 
